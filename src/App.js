@@ -59,8 +59,7 @@ function App() {
           {key: key, name: data[key]}
         )
       }
-      
-      const dummyVariable =('')
+    
       
       
       // set state to match no-longer-empty array
